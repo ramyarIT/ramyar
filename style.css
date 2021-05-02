@@ -1,0 +1,128 @@
+.header {
+    background-color: #EAF6F6;
+    width: 100%;
+    margin-top: 0;
+    display: block;
+    
+    
+}
+body{
+    
+    margin: 0;
+}
+.h1{
+    font-family: 'Sacramento', cursive; 
+   font-size: 100px;
+    text-align: center;
+    color: #66BFBF;
+}
+.programmer{font-family: 'Montserrat', sans-serif;
+  text-align: center;
+    color: #66BFBF;
+   
+}
+.cloud{
+    margin-right: 25%;
+}
+.cloud1{
+    align: center;
+margin-left: 25%;}
+    .mountain{
+        box-align: center;
+       
+    }
+    .hello{
+        color: #66BFBF;
+       text-align: center;
+       font-family: 'Montserrat', sans-serif;
+    }
+    .mine{
+        
+        text-align: center;
+        
+    }
+    .skills{
+        text-align: center;
+        font-family: 'Montserrat',sans-serif;
+        color: #66BFBF;
+    }
+    .new{
+        color: rgb(214, 226, 250);
+        text-align: center;
+    }
+    .h3{text-align: center;
+        color:#66BFBF;
+        font-family: 'Merriweather',sans-serif;
+        margin-right: 540px;
+    }
+    .design{
+        
+        text-align: justify;
+       margin-left: 43%;
+    }
+    .coding{
+        margin-left: 450px;
+        float: left;
+    }
+    .wing{ margin-left: 30%;
+        color: #66BFBF;
+        font-family: 'Merriweather',sans-serif;}
+    .pepper{
+        
+        margin-left: 30%;
+        text-align: justify;
+    }
+    .peper{
+        float: right;
+        margin-right: 25%;
+    }
+    .dot{ color: rgb(196, 214, 248);
+        text-align: center;
+
+    }
+    .love{ 
+        color: #66BFBF;
+        font-family: 'Merriweather',sans-serif;}
+        .footer{
+
+            background-color: #66BFBF;
+        }
+        .button{
+            border-radius: 10px;
+            color: white;
+            background-color: #66BFBF;
+            text-align: center;
+            font-family: 'Montserrat',sans-serif;
+            width: 130px;
+            height: 40px;
+            
+          }
+          .contact{
+              text-align: center;
+              
+          }
+
+    .bottom-container{
+        background-color: #66BFBF;
+        padding: 50px 0 20px;
+        text-align: center;
+    }
+    
+    .copy{
+        margin-top: 10px;
+        margin-bottom: 5px;
+        color: #EAF6F6;
+        font-size: 0.75rem;
+        padding: 20px 0;
+    }
+    
+    a{
+        color: #006a70;
+        font-family: 'Montserrat', sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+    }
+    a:hover{color: white;}
+    .heart{
+        color: red;
+    }
